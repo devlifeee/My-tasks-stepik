@@ -16,6 +16,5 @@ sum = 0
 if 1 <= n <= 100:
     for i in range(n):
         number = int(input())
-        sum += number
-    
+        sum += number    
 print(sum)
